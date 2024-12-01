@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300">
+  <!-- Dark Background -->
+  <rect width="500" height="300" fill="#11001f" />
+  <!-- Lightning Bolt Decorations -->
+  <path d="M50,50 L80,20 L90,50 L120,60 L90,90 L80,120 Z" fill="#FFD700" transform="rotate(20 85 85)"/>
+  <path d="M400,250 L430,220 L440,250 L470,260 L440,290 L430,320 Z" fill="#FF6B6B" transform="rotate(-30 435 255)"/>
+  <!-- Colorful Text with Shadow -->
+<text x="50%" y="50%" 
+     text-anchor="middle"
+     font-family="Optima"
+     font-size="72"
+     font-weight="bold"
+     fill="#64B5F6"
+     letter-spacing="5"
+     style="text-shadow: 4px 4px 6px rgba(0,0,0,0.5);">
+AKANKSHA
+</text>
+<text x="50%" y="65%"
+     text-anchor="middle"
+     font-family="Optima"
+     font-size="56"
+     font-weight="lighter"
+     fill="#81D4FA"
+     letter-spacing="3"
+     style="text-shadow: 3px 3px 5px rgba(0,0,0,0.4);">
+CHOUKSEY
+</text>
+  <!-- Additional Lightning Bolt Small Decorations -->
+  <path d="M20,20 L35,10 L40,20 L50,25 L40,35 L35,45 Z" fill="#FFD700"/>
+  <path d="M480,20 L465,10 L460,20 L450,25 L460,35 L465,45 Z" fill="#FF6B6B"/>
+</svg>
